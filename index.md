@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Projects, Ruminations, and Inspirations
 body: This is body paragraph information
 ---
 
